@@ -3,6 +3,8 @@
 This project tackles wildfire detection from satellite images using two deep learning models: a custom Convolutional Neural Network (CNN) and a pre-trained **ResNet50** architecture. The goal is to support early wildfire detection systems by accurately classifying images as `wildfire` or `nowildfire`.
 
 ---
+🔗 [Wildfire Prediction Dataset on Kaggle](https://www.kaggle.com/datasets/abdelghaniaaba/wildfire-prediction-dataset/)
+
 
 ## 📌 Project Highlights
 
